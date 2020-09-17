@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  font-family:monospace;
+}
+h1{
+  color: red;
+}
+hr{
+  border-top:"dashed";
+  border-color: "grey";
+  border-width: "medium";
+  border-style:"dashed";
+}
+table{
+  text-align: center;
+}
